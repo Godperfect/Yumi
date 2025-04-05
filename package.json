@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^22.13.11"
+    "@types/node": "^22.13.11",
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.0"
   }
 }
